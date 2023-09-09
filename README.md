@@ -40,7 +40,11 @@ To run Your EmployeeDB locally:
 2. Run ```npm i``` to install all dependencies
 3. Invoke app with ```node index.js``` </br> or ```nodemon index.js``` for nodemon
 </br>
-This is a command line application and has not been deployed. The following animation shows its use as directed: ![](assets/Screen%20Recording%202023-09-08%20at%207.11.18%20PM.mov)
+This is a command line application and has not been deployed. The following animation shows its use as directed: 
+
+
+https://github.com/Adrianman562/Employee-Tracker/assets/135084029/01b6e558-8187-4a1b-b91a-a3381a25d753
+
 
 
 
